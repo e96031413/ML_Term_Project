@@ -5,7 +5,7 @@ Machine Learning Term project of IOG5018
 [dataset.zip](https://github.com/e96031413/ML_Term_Project/blob/main/dataset.zip)
 After unzipping the file, you will get 3 different folders.
 
-If you want to train with CNN, make sure you use **dataset256x256(by train and val)**, For those who want want to train with ML based method, you can use **either dataset256x256(by class)** or **dataset64x64(by class)**.
+If you want to train with CNN, make sure you use **dataset256x256(by train and val)**, For those who want to train with ML based method, you can use **either dataset256x256(by class)** or **dataset64x64(by class)**.
 
 The main difference between these two folders are just their image size (256 and 64) and folder structure(by training/val set split or by class split)
 
