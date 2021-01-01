@@ -1,5 +1,5 @@
 # ML_Term_Project
-Machine Learning Term project of IOG5018
+Machine Learning Term project of IOG5016 and IOG5018
 
 ### Download dataset:
 [dataset.zip](https://github.com/e96031413/ML_Term_Project/blob/main/dataset.zip)
